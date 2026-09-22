@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://gawdmode.github.io/">
+    <img src="assets/checkoutmyothermods.png" alt="Check out all of my other Gen1Recomp mods">
+  </a>
+</p>
+
+
 # Viridian Vivarium
 
 **Viridian Vivarium** is a Pokémon Crystal Gen1Recomp gameplay mod that turns Route 2 into a small conservation and restoration project centered around Bug- and plant-associated Pokémon.
@@ -77,35 +84,3 @@ The mod is designed for the Pokémon Crystal (USA/Europe Rev 1) Gen1Recomp envir
 Viridian Vivarium includes compatibility handling for shared Kanto map/tileset changes used by other mods in this project and optional support for **Unique Menu Icons**.
 
 Because large gameplay mods can touch the same engine or map systems, keep backups of important saves when combining major mods.
-
-## Save compatibility
-
-The 1.0 package intentionally preserves the development build's internal mod/save identifiers so saves created with the late DEV builds can continue forward without losing Vivarium progression.
-
-## Version 1.0.0
-
-The first public release includes the complete core loop:
-
-- Route 2 Vivarium and restoration staff
-- Field Net rustling-grass encounters
-- 29-species conservation roster
-- Common / Uncommon / Rare donation progression
-- Logbook donation management
-- Jaxen and Fern milestone shops
-- Scent Spray, Sparkle Bits, Shiny Net, Fungi Spores, Berry Seed, and Fertilizer
-- planting, watering, growth, and harvesting
-- Vivarium resident management
-- shiny and Prime progression
-- Prime palettes, symbols, stat boosts, and evolution inheritance
-- advanced conservation rewards
-
-## Planned post-1.0 ideas
-
-Two systems are intentionally being saved for future updates:
-
-- daily Jaxen requests to inspect Prime Pokémon, with species-specific custom held-item rewards
-- expanded Apricorn crafting and new custom Poké Balls through Kurt
-
-## Credits
-
-Created by **GawdMode / Jasocorp** for the Pokémon Crystal Gen1Recomp modding community.
