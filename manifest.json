@@ -1,0 +1,23 @@
+{
+  "id": "viridian_forest_revitalization_dev57",
+  "name": "Viridian Vivarium",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "Gameplay",
+  "game_version": ">=0.0.0-0 <2.0.0",
+  "priority": 110,
+  "dependencies": [],
+  "optional_dependencies": [
+    "unique_menu_icons"
+  ],
+  "conflicts": [],
+  "description": "Restore Viridian's ecosystem through Field Net hunting, conservation donations, Vivarium care, cultivation, milestone shops, shiny hunting, and Prime Pok\u00e9mon.",
+  "games": [
+    "gen2"
+  ],
+  "permissions": [
+    "engine_internals"
+  ]
+}
