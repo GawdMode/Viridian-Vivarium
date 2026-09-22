@@ -84,3 +84,18 @@ The mod is designed for the Pokémon Crystal (USA/Europe Rev 1) Gen1Recomp envir
 Viridian Vivarium includes compatibility handling for shared Kanto map/tileset changes used by other mods in this project and optional support for **Unique Menu Icons**.
 
 Because large gameplay mods can touch the same engine or map systems, keep backups of important saves when combining major mods.
+
+## 🐛 Bug Reports
+
+Helpful reports include:
+
+1. PokeSurvive version
+2. Pokémon game: Red, Gold, or Crystal
+3. Gen1Recomp version
+4. Run seed
+5. Enabled run settings
+6. What happened and what you expected
+7. Steps to reproduce
+8. Screenshots, video, or logs when available
+
+If you're using additional mods, please mention them.
